@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-megaproject",
+  "version": "1.0.0",
+  "description": "This is Full Stack Project for practice",
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Abdul Basit Sher",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
